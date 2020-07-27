@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-3box",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint config for 3Box projects",
   "main": "index.js",
   "files": [
@@ -16,7 +16,7 @@
     "url": "https://github.com/3box/eslint-config-3box/issues"
   },
   "homepage": "https://github.com/3box/eslint-config-3box#readme",
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.7.0",
     "@typescript-eslint/parser": "^3.7.0",
     "eslint-config-prettier": "^6.11.0",
