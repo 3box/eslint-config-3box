@@ -11,7 +11,7 @@
     "url": "git+https://github.com/3box/eslint-config-3box.git"
   },
   "author": "Paul Le Cam <paul@3box.io>",
-  "license": "MIT",
+  "license": "(Apache-2.0 OR MIT)",
   "bugs": {
     "url": "https://github.com/3box/eslint-config-3box/issues"
   },

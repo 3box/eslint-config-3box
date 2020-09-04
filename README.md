@@ -31,5 +31,4 @@ The [Prettier configuration](https://prettier.io/docs/en/configuration.html) can
 
 ## License
 
-MIT.\
-See [LICENSE](LICENSE) file.
+Apache-2.0 OR MIT
