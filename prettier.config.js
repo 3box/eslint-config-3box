@@ -1,6 +1,6 @@
 module.exports = {
   endOfLine: 'auto',
-  jsxBracketSameLine: true,
+  bracketSameLine: true,
   printWidth: 100,
   semi: false,
   singleQuote: true,

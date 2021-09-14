@@ -4,7 +4,7 @@ Shared ESLint configuration for 3Box projects.
 
 ## Installation
 
-`eslint-config-3box` only includes configurations and plugins. ESlint and Prettier must be installed in the project using the config.
+`eslint-config-3box` only includes configurations and plugins. ESLint and Prettier must be installed in the project using the config.
 
 ```sh
 npm install --dev eslint prettier
