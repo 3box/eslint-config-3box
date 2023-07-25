@@ -7,17 +7,17 @@ Shared ESLint configuration for 3Box projects.
 `eslint-config-3box` only includes configurations and plugins. ESLint and Prettier must be installed in the project using the config.
 
 ```sh
-npm install --dev eslint prettier
-npm install --dev eslint-config-3box
+pnpm add -D eslint prettier
+pnpm add -D eslint-config-3box
 ```
 
 ## Usage
 
-In your project's `.eslintrc.js` file (or alternative configuration), add to the `extends` array:
+In your project's `.eslintrc.json` file (or alternative configuration), add to the `extends` array:
 
-```js
-module.exports = {
-  extends: ['3box'],
+```json
+{
+  "extends": ["3box"]
 }
 ```
 
